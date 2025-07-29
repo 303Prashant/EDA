@@ -10,7 +10,7 @@ Identify key features influencing turnout.
 
 Provide recommendations to improve voter engagement.
 
-Source: Kaggle / U.S. Elections
+Source: https://www.kaggle.com/datasets/imoore/2020-us-general-election-turnout-rates
 
 
 
